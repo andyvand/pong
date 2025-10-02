@@ -1,0 +1,16 @@
+{
+  "source": "/Users/andyvand/Documents/pong/pong/PongIconView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Pong Icon",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 112
+        }
+      }
+    ]
+  },
+  "version": 1
+}
